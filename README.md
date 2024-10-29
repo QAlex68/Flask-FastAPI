@@ -1,1 +1,1 @@
-# Flask-FastAPI
+# Фреймворки Flask и FastAPI (лекции)
